@@ -1,0 +1,4 @@
+.amz_otp_config
+*.csv
+*.xlsx
+.DS_Store
